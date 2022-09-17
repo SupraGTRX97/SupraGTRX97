@@ -1,7 +1,4 @@
-### Yo It's <SupraGTRX97/> Here
-
-<!--
-**SupraGTRX97/SupraGTRX97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Yo It's @SupraGTRX97
 
 Here are some ideas to get you started:
 
